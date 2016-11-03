@@ -2,7 +2,7 @@
 关键词、敏感词过滤工具
 
 
-public static void main(String[] args) {
+    public static void main(String[] args) {
 		String txt = "中文12中文AB，中国人民站起来了，这个【关键词】找到没有？【自定义关键词】";
 		KeywordUtil ku = new KeywordUtil();
 		
