@@ -1,5 +1,5 @@
 # keyword
-关键词、敏感词过滤工具
+有穷状态自动机（DFA）关键词、敏感词过滤工具
 
 
     public static void main(String[] args) {
